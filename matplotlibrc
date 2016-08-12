@@ -305,7 +305,7 @@ grid.alpha       :   0.2     # transparency, between 0.0 and 1.0
 
 ### FIGURE
 # See http://matplotlib.org/api/figure_api.html#matplotlib.figure.Figure
-figure.figsize   : 8, 6    # figure size in inches
+figure.figsize   : 12, 8    # figure size in inches
 figure.dpi       : 150      # figure dots per inch
 figure.facecolor : white    # figure facecolor; 0.75 is scalar gray
 #figure.edgecolor : white   # figure edgecolor
